@@ -13,7 +13,11 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
+<<<<<<< my-resume
+This is the first update to skills in the my-resume branch
+=======
 Updating the skills section in the main branch
+>>>>>>> main
 
 ### Education
 adding some more changes in the main branch
@@ -22,4 +26,8 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+<<<<<<< my-resume
+- Contributed to open source projects
+=======
 - Built internal tools
+>>>>>>> main
