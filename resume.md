@@ -15,6 +15,7 @@ Provide world class support to customers on the GitHub platform
 ## Skills
 <<<<<<< my-resume
 This is the first update to skills in the my-resume branch
+This my second update in skill and I am doing it on main branch
 =======
 Updating the skills section in the main branch
 >>>>>>> main
